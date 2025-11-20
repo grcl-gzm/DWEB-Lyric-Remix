@@ -15,8 +15,9 @@
     ];
     $verbs = [
         "fix","fight","trust","broke","seeing","cover","let","show","find",
-        "write","shattering","rising","shouting","listened","get","dive",
+        "write","shattering","rising","shouting","listened","get","dive"
     ];
+
     $adjectives = [
         "worst","ashamed","broken","jagged","quiet","alone",
         "tired","Fearless","undefined",
@@ -62,7 +63,7 @@
         "So we were cowards, so we were liars",
         "So we're not {$nouns[20]}, we're still {$nouns[21]}",
         "The {$nouns[22]}, the {$nouns[23]}, no lying, I'm {$adjectives[6]}",
-        "But {$verb[15]} in the {$nouns[24]}, and I'll be right here by your {$nouns[8]}",
+        "But {$verbs[15]} in the {$nouns[24]}, and I'll be right here by your {$nouns[8]}",
     ];
 
     $chorus2 = [
