@@ -109,6 +109,7 @@
     <style>
         body{
             background-color: #dfc5fe;
+            color:#301934;
         }
     </style>
 </head>
